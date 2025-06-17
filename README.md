@@ -1,19 +1,12 @@
-# 🎈 Blank app template
+# 🏠 House Price Prediction App
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit app that estimates house prices using a basic formula:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+**Price = Area × 7000 + Bedrooms × 1000 + Bathrooms × 1000 + Parking × 1500**
 
-### How to run it on your own machine
+## 🚀 How to Run
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
+   
